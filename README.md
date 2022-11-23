@@ -3,3 +3,4 @@ Made API call to YouTube API: I passed a URL to the API that specified what data
 Collected data as JSON: I collected the data as a JSON object and parsed through the data saving it as variables first.
 Saved the data as a Pandas DataFrame
 Lastly, I just added some error handling logic and cleaned up the code
+Also help star this respiratory if you liked my code
